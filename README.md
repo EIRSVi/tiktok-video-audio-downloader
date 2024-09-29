@@ -1,8 +1,8 @@
 <p align="center"> <a href="#"> <img src="https://skillicons.dev/icons?i=git,kali,windows,powershell" /> </a> </p>
 
-# SRIEVi TikTok Video Downloader
+# TikTok Video & audio Downloader
 
-Welcome to the **SRIEVi TikTok Video Downloader**. This tool allows you to download TikTok videos or audio directly to your device.
+Welcome to the **TikTok Video Downloader**. This tool allows you to download TikTok videos or audio directly to your device.
 
 ## Features
 - **Download TikTok Videos**: Save any TikTok video to your local machine.
@@ -22,7 +22,8 @@ pip install yt-dlp colorama pyfiglet
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/lkbxob/ttdl.py.git
+    git clone git@github.com:EIRSVi/tiktok-video-audio-downloader.git
+    
     cd ttdl.py
     ```
 
@@ -58,9 +59,7 @@ Video downloaded successfully to: ~/Downloads
 ## Support
 
 Support the development of SRIEVi by following us on:
-- [GitHub](https://github.com/lkbxob)
-- [X (formerly Twitter)](https://x.com/eirsvi)
-- [YouTube](https://youtube.com/@eirsvi)
+- [GitHub](https://github.com/EIRSVi)
 
 Stay connected with us for updates and improvements!
 
