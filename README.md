@@ -2,8 +2,6 @@
 
 # SRIEVi TikTok Video Downloader
 
-![SRIEVi Logo](https://path_to_logo_image.com) <!-- Add your logo image URL here -->
-
 Welcome to the **SRIEVi TikTok Video Downloader**. This tool allows you to download TikTok videos or audio directly to your device.
 
 ## Features
