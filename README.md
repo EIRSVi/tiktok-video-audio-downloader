@@ -66,9 +66,9 @@ Stay connected with us for updates and improvements!
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+
 **SRIEVi © 2024**
-```
+
 
 ### Key Sections:
 - **SRIEVi Logo**: Replace the placeholder with your logo URL or remove if unnecessary.
